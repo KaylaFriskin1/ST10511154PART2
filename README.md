@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 # ST10511154PART1
 # ST10511154
 =======
->>>>>>> 2c1728df6fd12ed80219008b96c734b4d5330947
+
 PART 1 WEBDEVELOPMENT ASSIGNMENT
 ## This is my final GitHub submission for Part 1
 - I updated my proposal

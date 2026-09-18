@@ -89,5 +89,11 @@ Clean and highly readable for operating systems and web browsers.
 Line Height: 1.6 
 
 Applied globally to body.home-page for clear line spacing and easy readability.
+## Reference
+Web Development Group (2025) ‘Website SWOT Analysis: How to Evaluate Your Web Design and Development Strategy’, 20 November 
+
+What Matters Marketing (n.d.) ‘Website Technical Requirements Checklist 
+
+ W3Schools (n.d.) HTML AND CSS Tutorial
 
 

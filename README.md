@@ -52,6 +52,36 @@ For part 2, I focused on improving my website by adding css.styles inside my Ass
     ├── style.css
     └── variables.css
 ```
+* Color scheme: Primary Color (--primary-color): #5c3a21 
 
+Warm Chocolate Brown — used for the main header bar, logo text title, primary buttons, and footer background. 
+
+Secondary Color (--secondary-color): #f4e8d1 
+
+Cream / Soft Warm Sand — used for the subtle container highlight. 
+
+Accent Color (--accent-color): #d4a373 
+
+Warm Golden Cookie / Warm Tan — used for hover highlights, active link colors, section dividers, and footer headings. 
+
+Background Color (--bg-color): #fefae0 
+
+Light Buttercream / Soft Off-White — applied to body.home-page 
+
+Text Color (--text-color): #333333 
+
+Dark Charcoal Gray — used for main body text. 
+
+White (--white): #ffffff 
+
+Pure White — used for container card backgrounds, form fields, and navigation link text. 
+
+* Typography: Primary Font Family: Arial, sans-serif 
+
+Clean and highly readable for operating systems and web browsers. 
+
+Line Height: 1.6 
+
+Applied globally to body.home-page for clear line spacing and easy readability.
 
 

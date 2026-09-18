@@ -26,7 +26,13 @@ PART 1 WEBDEVELOPMENT ASSIGNMENT
 
 For part 2, I focused on improving my website by adding css.styles inside my Assets folder, proving my website proposal and editing the readme.Md
 ---
-
+## Changes
+* Updated the proposal
+* Added a Readme file on vscode
+* Added css.styles
+* Added a footer
+* Added a hamburger
+* Added more photos
 ## Features
 
 * *Responsive Layout:* Designed with modern CSS for seamless display across mobile, tablet, and desktop screens.

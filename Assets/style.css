@@ -615,16 +615,64 @@ body.home-page {
 
     .contact-form-section {
         width: 100%;
+        margin: 50px auto;
+    padding: 40px;
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
     }
 
     .contact-form-section input,
     .contact-form-section select,
     .contact-form-section textarea {
         font-size: 15px;
+         width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-sizing: border-box;
+    font-size: 16px;
+
     }
 
     .map-container iframe {
         height: 280px;
     }
 
+}
+/* Center the heading and introduction */
+.contact-form-section h1 {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.contact-form-section > p {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* Form fields */
+.contact-form-section form {
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-form-section label {
+    margin-top: 15px;
+    margin-bottom: 7px;
+    font-weight: bold;
+} 
+
+/* Send button */
+.contact-form-section button {
+    width: 100%;
+    margin-top: 25px;
+    padding: 14px;
+    border: none;
+    border-radius: 6px;
+    background-color: #8b5e3c;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
 }

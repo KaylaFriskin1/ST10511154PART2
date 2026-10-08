@@ -89,6 +89,10 @@ Clean and highly readable for operating systems and web browsers.
 Line Height: 1.6 
 
 Applied globally to body.home-page for clear line spacing and easy readability.
+
+## Update for an Ice task 4
+- Added a form on my contact page
+- Formatted my contact page again using style.css
 ## Reference
 Web Development Group (2025) ‘Website SWOT Analysis: How to Evaluate Your Web Design and Development Strategy’, 20 November 
 
